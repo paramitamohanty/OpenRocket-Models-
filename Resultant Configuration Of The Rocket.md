@@ -1,5 +1,5 @@
 * ### Resultant Configuration
-```sh
+ ```sh
 Length : 450mm
 Max diameter: 50mm
 Mass with no motor : 172g
@@ -11,4 +11,4 @@ Max acceleration: 40.7m/s²
 Stability: 1.47 cal/ 16.4%
 CG : 248mm
 CP : 322 mm
- ```
+
