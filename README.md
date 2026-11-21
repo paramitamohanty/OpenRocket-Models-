@@ -1,5 +1,5 @@
 <h1 align="center">Component Details</h1> 
-* **Nose Cone**
+* ## Nose Cone
 *Nose cone shape : O give 
 Shape parameter : 1 
 Length : 150mm
